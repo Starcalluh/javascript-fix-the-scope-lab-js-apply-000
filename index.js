@@ -17,7 +17,7 @@ const n = Math.floor(Math.random() * 1000)
 function add2(n) {
   return n + two
 }
-function(){
+function poop(){
   var theFunk = FunkyFunction()
+  return theFunk
 }
-return theFunk
